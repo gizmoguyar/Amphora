@@ -23,13 +23,18 @@
         android:visibility="gone" />
 
     <ImageView
-        android:layout_width="match_parent"
+        android:id="@+id/A"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/btn_star" />
+        android:adjustViewBounds="true"
+        android:background="@mipmap/ic_launcher_background"
+        android:contentDescription="@string/app_logo"
+        android:visibility="visible"
+        app:srcCompat="@mipmap/ic_launcher_round" />
 
     <TextView
-        android:text="Sign in to Pandora"
-        android:textSize="35dp"
+        android:text="@string/sign_in_to_pandora"
+        android:textSize="35sp"
         android:textColor="#ffffff"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

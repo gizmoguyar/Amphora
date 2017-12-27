@@ -13,4 +13,6 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="sign_in_to_pandora">Sign in to Pandora</string>
+    <string name="app_logo">App logo</string>
 </resources>

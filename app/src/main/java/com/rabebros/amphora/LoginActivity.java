@@ -1,4 +1,4 @@
-package com.rabebros.pithos;
+package com.rabebros.amphora;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.rabebros.pithos"
+        applicationId "com.rabebros.amphora"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

@@ -1,4 +1,4 @@
-package com.rabebros.pithos;
+package com.rabebros.amphora;
 
 import org.junit.Test;
 
